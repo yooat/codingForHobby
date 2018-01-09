@@ -12,5 +12,5 @@ int main(void)
 		sum += x;
 	 } 
 	 
-	 printf("전체 정수의 은 %d입니다.\n", sum);
+	 printf("전체 정수의 합은 %d입니다.\n", sum);
 }
